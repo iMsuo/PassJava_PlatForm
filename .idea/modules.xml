@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PassJava_PlatForm.iml" filepath="$PROJECT_DIR$/.idea/PassJava_PlatForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passjava-channel/passjava-channel.iml" filepath="$PROJECT_DIR$/passjava-channel/passjava-channel.iml" />
       <module fileurl="file://$PROJECT_DIR$/passjava-content/passjava-content.iml" filepath="$PROJECT_DIR$/passjava-content/passjava-content.iml" />
       <module fileurl="file://$PROJECT_DIR$/passjava-member/passjava-member.iml" filepath="$PROJECT_DIR$/passjava-member/passjava-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passjava-question/passjava-question.iml" filepath="$PROJECT_DIR$/passjava-question/passjava-question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passjava-study/passjava-study.iml" filepath="$PROJECT_DIR$/passjava-study/passjava-study.iml" />
     </modules>
   </component>
 </project>
